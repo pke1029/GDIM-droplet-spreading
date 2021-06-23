@@ -1,6 +1,8 @@
 # GDIM-droplet-spreading
 Matlab code for solving the Geometric Diffuse Interface Method (GDIM) thin film equation in one spatial dimension. REF: [placeholder]
 
+![Image](https://github.com/pke1029/GDIM-droplet-spreading/blob/main/fig/solution.png)
+
 ## Introduction
 The classical thin film equation in 1D is given by
 
