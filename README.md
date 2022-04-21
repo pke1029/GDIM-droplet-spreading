@@ -1,5 +1,5 @@
 # GDIM-droplet-spreading
-Matlab code for solving the Geometric Diffuse Interface Method (GDIM) thin film equation in one spatial dimension. REF: [placeholder]
+Matlab code for solving the Geometric Diffuse Interface Method (GDIM) thin film equation in one spatial dimension. REF: [A mathematical model and mesh-free numerical method for contact-line motion in lubrication theory](https://link.springer.com/article/10.1007/s10652-021-09827-0) (Open Access)
 
 ![Image](https://github.com/pke1029/GDIM-droplet-spreading/blob/main/fig/solution.png)
 
